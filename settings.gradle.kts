@@ -7,3 +7,5 @@ pluginManagement {
 }
 
 rootProject.name = "blurred"
+
+include("core")
