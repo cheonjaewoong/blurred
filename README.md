@@ -1,0 +1,3 @@
+# Blurred
+
+Android blur library.
