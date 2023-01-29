@@ -2,6 +2,7 @@
 * eol=lf
 *.bat eol=crlf
 
-*.kt linguist-language=Kotlin
+*.jar binary
+
 *.cpp linguist-language=C++
 *.h linguist-language=C++
