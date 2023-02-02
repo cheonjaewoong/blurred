@@ -3,6 +3,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 plugins {
     id("org.jetbrains.kotlin.android") version "1.7.20" apply false
     id("com.android.library") version "7.4.0" apply false
+    id("app.cash.paparazzi") version "1.2.0" apply false
 }
 
 allprojects {
